@@ -1,0 +1,23 @@
+.display-content {
+  display: block;
+  font-family: Arial, sans-serif;
+}
+.no-display-content {
+  display: none;
+}
+.contact-info {
+  text-align: center;
+  margin: 20px;
+}
+.contact-info h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.contact-info p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+.contact-info a {
+  text-decoration: none;
+  color: #000;
+}

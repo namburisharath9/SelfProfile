@@ -1,0 +1,37 @@
+.display-content {
+  display: block;
+}
+.no-display-content {
+  display: none;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #a35200;
+  text-align: center;
+  padding: 100px;
+  font-family: 'Roboto';
+}
+h1,
+h2 {
+  padding: 15px;
+}
+.about-me {
+  color: #000000;
+}
+.btn-container {
+  padding: 25px;
+}
+.btn-home {
+  margin: 10px;
+  padding: 5px;
+  height: 100px;
+  width: 100px;
+  border: 1px solid #000000;
+  background-color: #475569;
+  color: #ffffff;
+  border-radius: 50px;
+}

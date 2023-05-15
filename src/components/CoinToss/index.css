@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  background-color: #475569;
+  color: #ffffff;
+  padding-left: 15px;
+}
+.header-description {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.main-heading {
+  font-family: Arial, sans-serif;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  font-weight: 100;
+  padding-left: 0px;
+}
+.description {
+  font-family: Arial, sans-serif;
+  padding-top: 0px;
+  margin-top: 0px;
+  font-weight: 100;
+  padding-left: 0px;
+}
+.btn-nav-section {
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+  border: none;
+  background-color: transparent;
+  padding-left: 15px;
+}
